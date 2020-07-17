@@ -36,5 +36,5 @@ An algorithm based on the notion of creating pseudo water dropplets ripple effec
 <a name="showcase"></a>
 ## Showcase
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Water-Ripple-2D/blob/master/img/Rain.gif)
 
